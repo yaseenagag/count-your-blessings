@@ -125,3 +125,5 @@ ipcMain.on('subtract-cup', (event, args) => {
   config.set('prayers', sentItems.prayers)
   event.sender.send('send-items', sentItems)
 })
+
+//track and alert prayers
