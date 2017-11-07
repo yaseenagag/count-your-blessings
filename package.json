@@ -1,0 +1,11 @@
+{
+  "name": "count-your-blessings",
+  "version": "1.0.0",
+  "description": "Count your prayers daily, weekly, monthly, and yearly",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha "
+  },
+  "author": "Yaseen Hussain and Jamaal Ghanem",
+  "license": "ISC"
+}
